@@ -30,6 +30,10 @@ Investor (assume it’s the VCs)
 Amount of Funding
 Stage (at which business is in while seeking/offered funding)
 Note - The 2018 Data Lacks some of the above data and has conflict of some data (like currency).
+ 
+
+
+
 
 ## Hypothesis Null Hypothesis – No factors determine the amount of funding offered to a start-up by venture capitalists in India.
 
