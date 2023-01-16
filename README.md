@@ -38,7 +38,17 @@ Alternative Hypothesis – A range of factors about a start-up(characteristics) 
 ## Research Questions Sector
 
 What sectors have attracted the largest funding in the last 4 years?
-Who are the major funders of ventures in India in the last 4 years? And what are the major sectors they are directing their funding?
-What are the Maximum, Minimum, Average and Median Funding amounts offered to each sector/ stage of funding and how do they compare?
-What is the trend of financing over the four years, cumulatively (total funding) and in independent sectors? (Monthly and/Yearly Trends)
-Technology 5. What business technologies have recieved the highest funding or have been funded more over the last four years? Location 6. What locations have received the biggest funding? 7. What is the spread of Venture Capital funding in India regionally and how do they compare? Stage 8. Does the stage of the venture affect the amount of funding offered to ventures? 9. How many ventures that have got a previous round of financing gone on to successfully raise another stage of financing? Founders 10. Does the number of business owners (entrepreneurs) in a venture determine the amount/likelihood of funding from investors? 11. Does the year of founding determine/influence the funding amount?
+
+1. Who are the major funders of ventures in India in the last 4 years? 
+2. And what are the major sectors they are directing their funding?
+
+3. What are the Maximum, Minimum, Average and Median Funding amounts offered to each sector/ stage of funding and how do they compare?
+
+3. What is the trend of financing over the four years, cumulatively (total funding) and in independent sectors? (Monthly and/Yearly Trends)
+Technology.
+4. What business technologies have received the highest funding or have been funded more over the last four years? (Location).
+5. What locations have received the biggest funding? 
+6. What is the spread of Venture Capital funding in India regionally and how do they compare? Stage 7. Does the stage of the venture affect the amount of funding offered to ventures? 
+8. How many ventures that have got a previous round of financing gone on to successfully raise another stage of financing? (Founders). 
+9. Does the number of business owners (entrepreneurs) in a venture determine the amount/likelihood of funding from investors? 
+10. Does the year of founding determine/influence the funding amount?
