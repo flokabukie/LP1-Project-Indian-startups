@@ -30,9 +30,8 @@ Investor (assume it’s the VCs)
 Amount of Funding
 Stage (at which business is in while seeking/offered funding)
 Note - The 2018 Data Lacks some of the above data and has conflict of some data (like currency).
+
  
-
-
 
 
 ## Hypothesis Null Hypothesis – No factors determine the amount of funding offered to a start-up by venture capitalists in India.
@@ -56,3 +55,11 @@ Technology.
 8. How many ventures that have got a previous round of financing gone on to successfully raise another stage of financing? (Founders). 
 9. Does the number of business owners (entrepreneurs) in a venture determine the amount/likelihood of funding from investors? 
 10. Does the year of founding determine/influence the funding amount?
+
+
+![image](lp9.png)
+
+![image](lp10.png)
+
+![image](lp11.png)
+
