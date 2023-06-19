@@ -1,5 +1,7 @@
 # LP1-Project-Indian-startups
 # An analysis of Indian startup ecosystem from 2018 to 2021
+
+![images](lp1poster.png)
 # Introduction
 ## Project Introduction and Objective
 Objective - Our team is trying to venture into the Indian startup ecosystem. As the data experts of the team we are supposed to investigate the ecosystem and propose the best course of action.
