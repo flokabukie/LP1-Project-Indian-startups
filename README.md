@@ -65,3 +65,22 @@ Technology.
 
 ![image](lp11.png)
 
+
+Find below the link to a detailed article on the An Analysis of the Indian Start-up Eco system
+https://medium.com/@florentia.teye/an-analysis-of-indian-start-up-eco-system-44f6c426fc62
+ 
+ ## Author
+ Name: Florentia Teye
+
+GitHub: [https://github.com/flokabukie)
+
+LinkedIn: Florentia Teye
+
+Email: florentiateye@gmail.com florentia.teye@azubiafrica.org
+
+
+ ![image](signature.png)
+
+
+Florentia Teye is a Data Scientist with experience in data analysis and machine learning. She has a Bachelor's of Education degree in Mathematics and has worked on several open-source projects. In her free time, she enjoys teaching, researching new niches and writing. If you have any questions or suggestions, feel free to reach out to her on GitHub or LinkedIn.
+
